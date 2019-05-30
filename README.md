@@ -1,2 +1,5 @@
 # Checkers Game Using Machine Learning 
 
+A game is something with rules and an objective. We “play” a game when we perform actions, constrained by these rules, in order to achieve the established objective. Checkers is a popular game around the world, with over 150 documentedvariations.Only two versions, however, have a large international playing com-munity. What is commonly known as checkers (or draughts) in North America
+is widely played in the United States and the British Commonwealth.
+It is played on a 8 x 8 board, with checkers moving one square forward and kings moving onesquare in any direction. Captures take place by jumping over an opposing piece,and a player is allowed to jump multiple men in one move.Checkers promote tokings when they advance to the last rank of the board. So-called internationalcheckers is popular in the Netherlands and the former Soviet Union. This vari-ant uses a 10 x 10 board, with checkers allowed to capture backwards, and kingsallowed to move many squares in one direction, much like bishops in chess. 
